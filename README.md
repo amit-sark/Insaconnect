@@ -19,10 +19,10 @@ The following libraries and technologies were used in developing Insaconnect:
 5. **Selenium**: For automating web tasks related to messaging.
 6. **Requests**: For handling HTTP requests and interacting with external APIs.
 
-![Home](IMAGE\sample(1).png)
-![Registration](IMAGE\sample(2).png)
-![Activation](IMAGE\sample(3).png)
-![Contact](IMAGE\sample(4).png)
+![Home](IMAGE/sample(1).png)
+![Registration](IMAGE/sample(2).png)
+![Activation](IMAGE/sample(3).png)
+![Contact](IMAGE/sample(4).png)
 
 ## Installation
 

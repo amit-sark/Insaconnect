@@ -1,22 +1,45 @@
-# InsaConnect 💬🚀
-InsaConnect is an innovative, cost-effective bulk SMS broadcasting software designed for businesses, educational institutions, and organizations to manage mass communication seamlessly. It ensures cost reduction by switching intelligently between carrier SMS and RCS (Rich Communication Services) when both sender and recipient are online.
+# Insaconnect
 
-# Key Features ✨
-- **Bulk SMS Broadcasting: Send messages to thousands of recipients instantly.**
-- **RCS Messaging: Switches to RCS when available to minimize costs and enhance message quality.**
-- **Cost-Effective: Reduces unnecessary SMS charges by optimizing message routes.**
-- **User-Friendly Interface: Simple and intuitive UI for easy operation by anyone.**
-- **Real-Time Message Tracking: View message delivery status in real time.**
+Insaconnect is a cost-effective bulk messaging software designed to broadcast SMS messages to multiple recipients at once or at small intervals. Developed using a combination of powerful technologies, Insaconnect offers features such as SMS broadcasting, RCS (Rich Communication Services) messaging, and enhanced message delivery control.
 
-# How It Works ⚙️
-Import Contact List: Easily upload your contact list via CSV or manual entry.
-Compose Message: Create personalized messages using the built-in editor.
-Select Mode: Choose between carrier SMS or automatic switching to RCS.
-Send and Track: Hit send and monitor the delivery status live.
+## Features
+- **Bulk SMS Broadcasting**: Quickly send SMS messages to a large number of recipients.
+- **RCS Messaging**: If both sender and recipient are online, the software uses RCS to save costs and improve security.
+- **Cost Optimization**: The system prioritizes cost-effectiveness by switching between SMS and RCS based on network conditions.
+- **Easy Scheduling**: Schedule messages for later broadcasts.
+- **User-Friendly Interface**: Built with a clean and intuitive interface for a smooth user experience.
 
-# Screenshots 🖼️
-# Home Screen
-![HomeScreen](IMAGE\sample  (1).png)
-![Subscription](IMAGE\sample  (2).png)
-![Contact](IMAGE\sample  (3).png)
-![Activtion](IMAGE\sample  (4).png)
+## Technology Stack
+The following libraries and technologies were used in developing Insaconnect:
+
+1. **CustomTkinter**: For creating the graphical user interface.
+2. **Pillow**: For image processing tasks.
+3. **Firebase**: For real-time database management and user authentication.
+4. **Google Apps Script**: To integrate with Google Sheets for data storage and processing.
+5. **Selenium**: For automating web tasks related to messaging.
+6. **Requests**: For handling HTTP requests and interacting with external APIs.
+
+![Home](IMAGE\sample(1).png)
+![Registration](IMAGE\sample(2).png)
+![Activation](IMAGE\sample(3).png)
+![Contact](IMAGE\sample(4).png)
+
+## Installation
+
+1. Download and Install the exicutable .
+2. Register and Activate to use.
+
+## Usage
+
+1. Launch Insaconnect.
+2. Enter the required information such as recipient numbers and message content.
+3. Choose the preferred delivery method (SMS/RCS).
+4. Click the **Send** button to start broadcasting messages.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+
+For any inquiries or support, please contact Amit Sarkar at [amitsarkar01377@gmail.com](mailto:amitsarkar01377@gmail.com).
